@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguel7ra
 - 👀 I’m interested in Free Software, science and game development
-- 🌱 I’m currently studying Computer Science
+- 🌱 I'm currently taking a bachelor's degree in computer science
 - 💞️ I’m looking to collaborate on Free Software projects
 - 📫 How to reach me: miguel7r.araujo@gmail.com
 
